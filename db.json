@@ -1,0 +1,1397 @@
+[
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2021-03-06T20:19:49.404Z",
+        "user": 2,
+        "content_type": 6,
+        "object_id": "3",
+        "object_repr": "Mustafa",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2021-03-06T20:21:28.673Z",
+        "user": 2,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Sakız",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Slug\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2021-03-06T20:45:42.208Z",
+        "user": 2,
+        "content_type": 6,
+        "object_id": "3",
+        "object_repr": "Mustafa",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"password\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2021-03-08T14:26:10.218Z",
+        "user": 3,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "İnek -> Montofon",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2021-03-08T14:47:02.861Z",
+        "user": 3,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Sakız",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2021-03-08T14:56:05.094Z",
+        "user": 3,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "Akkaraman",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2021-03-08T14:59:57.485Z",
+        "user": 3,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Sakız",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Body\", \"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2021-03-08T15:03:04.415Z",
+        "user": 3,
+        "content_type": 7,
+        "object_id": "6",
+        "object_repr": "Koyun -> Koyunların Beslenmesi",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2021-03-08T21:43:43.118Z",
+        "user": 3,
+        "content_type": 7,
+        "object_id": "7",
+        "object_repr": "Koyun -> Koyun Agilinin Fiziksel Özellikleri",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2021-03-08T21:51:41.192Z",
+        "user": 3,
+        "content_type": 7,
+        "object_id": "8",
+        "object_repr": "Koyun -> Damizlik Secimi",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2021-03-08T22:06:21.215Z",
+        "user": 3,
+        "content_type": 8,
+        "object_id": "32",
+        "object_repr": "Damızlık seçimi",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2021-03-08T22:39:41.868Z",
+        "user": 3,
+        "content_type": 8,
+        "object_id": "43",
+        "object_repr": "Angus",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2021-03-08T22:47:09.809Z",
+        "user": 3,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Sakız",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2021-03-08T22:50:04.914Z",
+        "user": 3,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "Akkaraman",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2021-03-08T22:51:06.625Z",
+        "user": 3,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "Mor Karaman",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2021-03-08T22:54:06.010Z",
+        "user": 3,
+        "content_type": 8,
+        "object_id": "32",
+        "object_repr": "Damızlık seçimi",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2021-03-09T11:41:15.590Z",
+        "user": 3,
+        "content_type": 7,
+        "object_id": "10",
+        "object_repr": "Köpek",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2021-03-09T11:42:04.869Z",
+        "user": 3,
+        "content_type": 7,
+        "object_id": "11",
+        "object_repr": "Köpek -> Köpeklerin beslenmesi",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 4,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 4,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 4,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 4,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 5,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 5,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 5,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 5,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 6,
+        "codename": "add_customuser"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 6,
+        "codename": "change_customuser"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 6,
+        "codename": "delete_customuser"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 6,
+        "codename": "view_customuser"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add category",
+        "content_type": 7,
+        "codename": "add_category"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change category",
+        "content_type": 7,
+        "codename": "change_category"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete category",
+        "content_type": 7,
+        "codename": "delete_category"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view category",
+        "content_type": 7,
+        "codename": "view_category"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add post",
+        "content_type": 8,
+        "codename": "add_post"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change post",
+        "content_type": 8,
+        "codename": "change_post"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete post",
+        "content_type": 8,
+        "codename": "delete_post"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view post",
+        "content_type": 8,
+        "codename": "view_post"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "accounts",
+        "model": "customuser"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "blog",
+        "model": "category"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "blog",
+        "model": "post"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "1869s8wy9c21yrfdlggk1z3i09f2xk5o",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hCFYaAu3fcMhGFGqRpISrsy3l2bdKHb_977LxXTupS4dpnjxOqsQB1-N0r5IXUDfE_11nRudZkn0puid9r12Fiel939Oyipl2-decgYWMAZEkATABOaa6AMgxdLYJw9IVobxHEiQAJy9ug9GWIvWb0_4_Q33w:1lJOeF:k1IbzUVBVYjP0Pc5wKMqKkNAAoqDEIMrQpQDQ3ikIxI",
+        "expire_date": "2021-03-22T22:46:47.209Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "6co3qfn2ofprju0j24awz7f0ne2bzya2",
+    "fields": {
+        "session_data": ".eJxVjMsKwyAQAP_FcxHiYzU99t5vENdda9qiEJNT6L8XIYf2OjPMIULctxL2zmtYSFyFFpdfhjG9uA5Bz1gfTaZWt3VBORJ52i7vjfh9O9u_QYm9jC1S9CbZRI4sZoNuwjwb4mRgMuAs-Ow4e7Zp1k4hA4PX4BUaVjYr8fkCB_44WQ:1lJPUZ:ncy-0N2FDy4eSd5fyALgsItwpzRZHuYID_O27tD7GvE",
+        "expire_date": "2021-03-22T23:40:51.160Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "9l4xbtdu6le7m57lqc4wxv3qp3qze9ht",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAQRf-FtSEdGF4u3fsNZIBRqoYmpV0Z_92QdKHbe865bxFp32rcO69xLuIsjDj9bonyk9sA5UHtvsi8tG2dkxyKPGiX16Xw63K4fweVeh110IiJwYEmMApsVjfPbB2qzMEWb3VC1LYEnAx5ZJ6KyhlcAGc0e_H5AsuiNyI:1lJXvm:CIreZRuAtzmLW8cLhT4u0ta3XuJdVrvaajCHSbEF1qM",
+        "expire_date": "2021-03-23T08:41:30.401Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "fltgipyh8tmwot1s9ex9i0o3s3nr9m4y",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGln-xc5S0nMGa-1d4wBypDipEHeHSCmgfTPzXiLitta4dV7iROIsjDj9bgnzg9sO6I7tNss8t3WZktwVedAurzPx83K4fwcVe_3W2nlQpNiHIY_KAZAhC6Sz90EDO4Wei9eoLBqLIdkRLBc7JJ1ABSji_QG9nDcd:1lJaf3:UqZpKJa2BDctQ5T1qRb_lD3HZTyuDHNaDKvU16WJhqc",
+        "expire_date": "2021-03-23T11:36:25.495Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "ge80ochkeddfdsew50k127gqmvvpjwxr",
+    "fields": {
+        "session_data": ".eJxVjMsKwyAQAP_FcxHiYzU99t5vENdda9qiEJNT6L8XIYf2OjPMIULctxL2zmtYSFyFFpdfhjG9uA5Bz1gfTaZWt3VBORJ52i7vjfh9O9u_QYm9jC1S9CbZRI4sZoNuwjwb4mRgMuAs-Ow4e7Zp1k4hA4PX4BUaVjYr8fkCB_44WQ:1lJNzJ:zYoMf_2_s_HWingInmWT_YBsFnjUver5-kCGJ1u39FE",
+        "expire_date": "2021-03-22T22:04:29.482Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "hkej49hzgvy28ay9jljlrdrbcgrc25id",
+    "fields": {
+        "session_data": ".eJxVjMsKwyAQAP_FcxHiYzU99t5vENdda9qiEJNT6L8XIYf2OjPMIULctxL2zmtYSFyFFpdfhjG9uA5Bz1gfTaZWt3VBORJ52i7vjfh9O9u_QYm9jC1S9CbZRI4sZoNuwjwb4mRgMuAs-Ow4e7Zp1k4hA4PX4BUaVjYr8fkCB_44WQ:1lIdoG:_Y_KKXohJyeZWcWjdOedIxFZST8_tCv1M_UAPBdIFXA",
+        "expire_date": "2021-03-20T20:46:00.641Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "zyylv5ggjr6z03grjvl3fopa1vroeh0s",
+    "fields": {
+        "session_data": ".eJxVjMsKwyAQAP_FcxHiYzU99t5vENdda9qiEJNT6L8XIYf2OjPMIULctxL2zmtYSFyFFpdfhjG9uA5Bz1gfTaZWt3VBORJ52i7vjfh9O9u_QYm9jC1S9CbZRI4sZoNuwjwb4mRgMuAs-Ow4e7Zp1k4hA4PX4BUaVjYr8fkCB_44WQ:1lJGn8:vB94c14Qm0Pznovih-KEbyPrr1MHknZATjR_v5xC5TI",
+        "expire_date": "2021-03-22T14:23:26.164Z"
+    }
+},
+{
+    "model": "accounts.customuser",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$L0WofCq6lc5W$YfSxmt4bXGEmzThrn6J++U68LYOiQKG/vMWB30MWbgA=",
+        "last_login": "2021-03-06T20:14:31.290Z",
+        "is_superuser": false,
+        "username": "tokenduemon",
+        "first_name": "Faruk",
+        "last_name": "Fau",
+        "email": "tokenduemon@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-03-06T20:14:20.235Z",
+        "age": 21,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.customuser",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$nAf0P6X2UiJf$dZ5firwQHuPBnGYcHVfINeioBNezh7oSxWqnQDIywM8=",
+        "last_login": "2021-03-09T11:36:25.441Z",
+        "is_superuser": true,
+        "username": "Admin",
+        "first_name": "Yavuz Selim",
+        "last_name": "Ekim",
+        "email": "token@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-03-06T20:15:21.328Z",
+        "age": 27,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.customuser",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$EVBBaD0iMc16$RpKc2SLRshYqHQdt3ITksbBOXebRPj20sCPMfJj72WE=",
+        "last_login": "2021-03-08T23:40:51.155Z",
+        "is_superuser": true,
+        "username": "Mustafa",
+        "first_name": "Mustafa",
+        "last_name": "Başak",
+        "email": "admin@mustafa.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-03-06T20:17:31Z",
+        "age": null,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.customuser",
+    "pk": 4,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$BbE8829Z4NVW$zT6R9PnXEp0bKkg2Tc/fIxIDZPYeqx3ZdPTHdic13lc=",
+        "last_login": "2021-03-08T22:46:47.206Z",
+        "is_superuser": false,
+        "username": "Vet.Hek.ibrahimkayhanlar",
+        "first_name": "ibrahim",
+        "last_name": "kayhanlar",
+        "email": "i.kayhanlar115@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-03-08T22:46:15.956Z",
+        "age": 30,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.customuser",
+    "pk": 5,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$0p6akgQPLvvZ$Q4x7HpNiurnSlCa6mqdm4PkgRHnrQvYCfyQA1P3cUaY=",
+        "last_login": "2021-03-09T08:41:30.393Z",
+        "is_superuser": false,
+        "username": "myvet",
+        "first_name": "Hilâl",
+        "last_name": "Kayapınar",
+        "email": "hilalkayapinar5@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-03-09T08:41:16.424Z",
+        "age": 28,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 1,
+    "fields": {
+        "title": "Sakız",
+        "author": 2,
+        "body": "<p><u><strong>Irk &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Sakız koyunu Ege Denizinde bulunan Sakız Adasında ve İzmir&lsquo;in &Ccedil;eşme İl&ccedil;esinde yetiştirilmekte olan bir koyun ırkıdır. Batı Akdeniz B&ouml;lgesi, Ege B&ouml;lgesi sahillerinde de yetiştirilmektedir.</em></p>\r\n\r\n<p><em>-Rengi beyaz olup, baş, ayaklar ve g&ouml;z &ccedil;evresinde siyah lekeler bulunur.</em></p>\r\n\r\n<p><em>-</em> <em>V&uuml;cut kısmında yapağı i&ccedil;erisinde siyah veya kahverengi k&uuml;&ccedil;&uuml;k k&uuml;mecikler halinde yapağıya rastlanabilir.</em></p>\r\n\r\n<p><em>-Baş, karın altı ve bacaklar yapağısızdır.&nbsp;</em></p>\r\n\r\n<p><em>-Erkek sakız koyununda boynuz kuvvetli olup spiral şeklindedir. Dişiler boynuzsuzdur.</em></p>\r\n\r\n<p><em>-Yağsız kuyrukludur. &nbsp;Kuyrukta yağ miktarının &ccedil;oğalması saf sakız koyunu olmadığına işarettir.</em></p>\r\n\r\n<p>Verim &ouml;zellikleri:</p>\r\n\r\n<p><em>-</em> <em>Canlı ağırlık erkekte 60-80 kg dişide 50-60 kg dır.</em></p>\r\n\r\n<p><em>-G&uuml;nl&uuml;k canlı ağırlık artışı 240 gr dır.</em></p>\r\n\r\n<p><em>-Karkas randımanı %45 dir.</em></p>\r\n\r\n<p><em>-Laktasyon s&uuml;resin 180 g&uuml;n </em></p>\r\n\r\n<p><em>-Ortalama s&uuml;t verimi 170-180 lt dir.</em></p>\r\n\r\n<p><em>-D&ouml;l verimi %170-230 dur.</em></p>\r\n\r\n<p><em>-Yapağı verimi 1,5-2 kg dır. </em></p>\r\n\r\n<p>&nbsp;</p>",
+        "slug": "sakiz",
+        "category": 2,
+        "image": "sakızzzzzzzzzzzzzzzzzzzzzzzz.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 2,
+    "fields": {
+        "title": "Mor Karaman",
+        "author": 3,
+        "body": "<p><u><strong>Irk &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-Genel olarak Doğuanadolu b&ouml;lgesi illerinde yetişir.&nbsp;&Ccedil;evreye Adaptasyon kabiliyeti fazladır.</em></p>\r\n\r\n<p><em>-</em><em> Erkek ve dişisinin renkleri kızıl ve mor dur.G&ouml;z ağız burun &ccedil;evresi a&ccedil;ık ,ayak ve baş v&uuml;c&uuml;da g&ouml;re daha koyudur.</em></p>\r\n\r\n<p><em>-</em><em> Y&uuml;z ve baş yapağasızdır.</em></p>\r\n\r\n<p><em>-</em><em> Yağlı kuyruklu bir hayvandır.</em></p>\r\n\r\n<p><em>-Erkekler boynuzlu , dişiler boynuzsuz veya hafif boynuzludur.</em></p>\r\n\r\n<p>Verim &ouml;zellikleri:</p>\r\n\r\n<p><em>-</em> <em>Erkekte canlı ağırlık 50-90 kg dişide 40-60kg dır</em></p>\r\n\r\n<p><em>-</em> <em>Kuzu doğum ağırlığı 3,5-4 kg dır.</em></p>\r\n\r\n<p><em>-</em> <em>S&uuml;tten kesim ağırlığı 19,5-20 kg dır.</em></p>\r\n\r\n<p><em>-</em> <em>Canlı ağırlık artışı 192gr dır.</em></p>\r\n\r\n<p><em>-</em> <em>Laktasyon s&uuml;resi 126 g&uuml;n.S&uuml;t verimi 60 lt dir.</em></p>\r\n\r\n<p><em>-</em> <em>Yapağı verimi 1,56 kg dır.</em></p>\r\n\r\n<p><em>-</em> <em>Bir batımda kuzu sayısı 1,02 dir.kuzuların Yaşama g&uuml;c&uuml; %93 d&uuml;r.</em></p>",
+        "slug": "mor-karaman",
+        "category": 2,
+        "image": "morkaraman-koyunu-ozellikleri-ve-morkaraman-yetistirme_1-825x450.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 3,
+    "fields": {
+        "title": "Akkaraman",
+        "author": 3,
+        "body": "<p><strong><u>Irk &ouml;zellikleri:</u></strong></p>\r\n\r\n<p>-<em>Daha ziyade Orta anadoluda yetişir.&nbsp; </em></p>\r\n\r\n<p><em>-Beyaz renklidir. genellikle ağız, burun,&nbsp;kulakları ve ayakları siyahtır.&nbsp;</em></p>\r\n\r\n<p><em>-Yağlı kuyruklu bir koyundur.</em></p>\r\n\r\n<p><em>-Koyunlar boynuzsuzdur.Ko&ccedil;ların %10 u boynuzludur.</em></p>\r\n\r\n<p><em>-Kulaklar sarkıktır. </em></p>\r\n\r\n<p><em>-</em>K&ouml;t&uuml; &ccedil;evre şartlarına ve hastalıklara dayanıklıdır.</p>\r\n\r\n<p>-Fakir meralardan yararlanma yeteneği y&uuml;ksektir.</p>\r\n\r\n<p>Verim &ouml;zellikleri:</p>\r\n\r\n<p>-Canlı ağırlık dişilerde 40-45 kg dır.Erkekte 60-65 kg.</p>\r\n\r\n<p>-Laktasyon s&uuml;resi 140-150 g&uuml;n.</p>\r\n\r\n<p>-S&uuml;t verimi 40-55 lt dir.</p>\r\n\r\n<p>-İkiz doğum oranı %4-5 dir.</p>\r\n\r\n<p>-kuzu doğum ağırlığı ortalama 4,5 kg dır.</p>\r\n\r\n<p>-Yapağı verimi 1,5-2 kg dır .</p>",
+        "slug": "ak-karaman",
+        "category": 2,
+        "image": "akkaraman-koyun-irki_1__hhhhhhhhhhhhhhhhhhhh.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 4,
+    "fields": {
+        "title": "İvesi",
+        "author": 3,
+        "body": "<p><u><strong>Irk &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>İvesi koyunu, genellikle G&uuml;neydoğu Anadolu b&ouml;lgesi Şanlıurfa -Gaziantep &ndash; Kilis ve Hatay civarında yaygın olarak yetişir.</em></p>\r\n\r\n<p><em>-yağlı kuyrukludur.</em></p>\r\n\r\n<p><em>-</em> <em>Kuru sıcak iklimden fazla etkilenmemesi en b&uuml;y&uuml;k &ouml;zelliğindendir. Diğer koyun ırkları gibi yaz aylarında yaylaya gitme gereksinimi&nbsp;hissetmez.</em></p>\r\n\r\n<p><em>-</em> <em>Beyaz renklidir, baş ve bacaklar kahverengidir.</em></p>\r\n\r\n<p><em>-</em> <em>Dişileri boynuzsuz erkekler boynuzludur.</em></p>\r\n\r\n<p><em>-</em> <em>&Ccedil;oğunlukla alında beyaz leke vardır.&nbsp; </em></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>İvesi koyunu canlı ağırlık olarak dişilerde 45 &ndash; 50 kg. Erkek ko&ccedil;larda 60 &ndash; 70 kg. civarındadır.Ortalama karkas 20-21 kg dır.</em></p>\r\n\r\n<p><em>-</em> <em>İvesi koyununun s&uuml;t verimi bir sağım d&ouml;neminde 100 &ndash; 180 litre civarındadır. S&uuml;tteki katı madde oranı y&uuml;ksektir. S&uuml;tteki yağ oranı % 6 civarındadır.</em></p>\r\n\r\n<p><em>-</em> <em>İvesi koyununda yapağı verimi dişi hayvanlarda 2 &ndash; 2,5 kg. erkeklerde ise 2,5 &ndash; 3 kg civarındadır.</em></p>\r\n\r\n<p><em>-</em> <em>D&ouml;l Verimi %125-140 civarındadır.</em></p>\r\n\r\n<p><em>-</em> <em>Doğum ağırlığı erkekte 1.3-5.6 dişide 2-5.4 dir.</em></p>\r\n\r\n<p><em>-kuzularınS&uuml;tten kesim &nbsp;ağırlığı17-18 kg.</em></p>\r\n\r\n<p><em>-Canlı ağırlık artışı 189-387 gr/g&uuml;n.</em></p>",
+        "slug": "ivesi",
+        "category": 2,
+        "image": "ivesi.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 5,
+    "fields": {
+        "title": "Pırlak",
+        "author": 3,
+        "body": "<p><u><strong>Irk &ouml;zellikleri:</strong></u></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><em>-</em> <em>Ege b&ouml;lgesinde yetiştirilir.</em></p>\r\n\r\n<p><em>-</em> <em>V&uuml;cut beyazdır. G&ouml;z ,ağız &ccedil;evresi ve kulak ucu siyahtır.</em></p>\r\n\r\n<p><em>-</em> <em>Kulaklar yere paralel ve ileriye doğrudur.</em></p>\r\n\r\n<p><em>-</em> <em>Erkekler boynuzlu dişiler genellikle boynuzsuzdur.</em></p>\r\n\r\n<p><em>-</em> <em>Kuyruk yarı yağlıdır.</em></p>\r\n\r\n<p><em>-</em> Yetersiz mera, barınak ve bakım besleme koşullarında yetiştirilebilir.</p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Canlı ağırlık 45-50 kg dır.</em></p>\r\n\r\n<p><em>-Kuzu doğum ağırlığı 3,5-4 kg dır.</em></p>\r\n\r\n<p>- <span style=\"color:black\">G&uuml;nl&uuml;k </span>Canlı ağırlık artışı 150 gr dır.</p>\r\n\r\n<p>-Bir batımda kuzu sayısı 1,2-1,5 dir.</p>\r\n\r\n<p>- Laktasyon s&uuml;resi 120 g&uuml;n.</p>\r\n\r\n<p>- S&uuml;t verimi 80 lt dir.</p>\r\n\r\n<p>- Yapağı verimi 2-2,5 kg dır.</p>",
+        "slug": "prlak",
+        "category": 2,
+        "image": "pırlak.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 6,
+    "fields": {
+        "title": "İMROZ (GÖKÇEADA KOYUNU)",
+        "author": 3,
+        "body": "<p><u><strong>Irk &ouml;zellikleri:</strong></u></p>\r\n\r\n<p>- G&ouml;k&ccedil;eada ve &Ccedil;anakkale de yetişir.</p>\r\n\r\n<p>- V&uuml;cut beyaz ağız ve g&ouml;z &ccedil;evresi siyahtır.</p>\r\n\r\n<p>- Kuyruk yağsız ince ve uzundur.</p>\r\n\r\n<p>- Koyunlar boynuzsuzdur.</p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p>- Canlı ağırlık erkekte 50-60 kg dişide 33-52 kg dır.</p>\r\n\r\n<p>- Kuzu doğum ağırlığı 3,8 kg dır.</p>\r\n\r\n<p>- Canlı ağırlık artışı 190 gr dır.</p>\r\n\r\n<p>- Bir batımda kuzu sayısı 1,23 d&uuml;r.kuzuların yaşama g&uuml;c&uuml; %98,1 dir.</p>\r\n\r\n<p>-Laktasyon s&uuml;resi 204 g&uuml;n .</p>\r\n\r\n<p>- S&uuml;t verimi 120 lt dir.</p>\r\n\r\n<p>- Yapağı verimi 1-3 kg dır.</p>",
+        "slug": "imroz-gokceada-koyunu",
+        "category": 2,
+        "image": "imroz.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 7,
+    "fields": {
+        "title": "DAĞLIÇ",
+        "author": 3,
+        "body": "<p><u><strong>Irk &ouml;zellikleri:</strong></u></p>\r\n\r\n<p>-<em> Bu koyunda Marmara b&ouml;lgesinin Anadolu tarafı ve Ege b&ouml;lgesi sahil kesimlerinde yaygın olarak yetişir.&nbsp;Başka b&ouml;lgelerde verim a&ccedil;ısından yetiştirilmesi zordur.&nbsp; </em></p>\r\n\r\n<p><em>-</em><em> Renk beyazdır.G&ouml;z &ccedil;evresinde oval siyah renkli nişane vardır.</em></p>\r\n\r\n<p><em>-</em><em> Boynuzsuz bir koyun ırkıdır. Erkeklerinde boynuz mevcut helezonidir. </em></p>\r\n\r\n<p><em>-</em><em> Yağlı kuyruklu bir koyundur. </em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Canlığı ağırlık erkekte 32-64 kg dişide 25-50 kg dır.</em></p>\r\n\r\n<p><em>-</em> <em>Doğum ağırlığı erkekte 2-5,2 kg dişide 1,9-5,4 kg dır.</em></p>\r\n\r\n<p><em>-</em> <em>S&uuml;tten kesim ağırlığı 22-26 kg dır.</em></p>\r\n\r\n<p><em>-</em> <em>Canlı ağırlık artışı 241 gr/g&uuml;n.</em></p>\r\n\r\n<p><em>-</em> <em>Laktasyon s&uuml;resi 75-105 g&uuml;nd&uuml;r.</em></p>\r\n\r\n<p><em>-S&uuml;t verimi 57 lt dir.</em></p>\r\n\r\n<p><em>-Yapağı verimi 2,27 kg dır.</em></p>\r\n\r\n<p><em>-D&ouml;l verimi %180 dir.</em></p>",
+        "slug": "daglic",
+        "category": 2,
+        "image": "dağlıç.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 8,
+    "fields": {
+        "title": "KANGAL",
+        "author": 3,
+        "body": "<p><u><strong>Irk &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Kangal koyunu, akkaraman koyununun yerel tipi olarak Kangal il&ccedil;esi ve &ccedil;evresinde yetişmektedir. Kangal koyunu en fazla Kangal il&ccedil;esinde yetiştirildiğinden kangal ismini almıştır.</em></p>\r\n\r\n<p><em>-Ancak v&uuml;cut yapısı akkaraman koyunundan daha boylu, uzun bacaklı ve iri c&uuml;sseli bir yapıya sahiptir.</em></p>\r\n\r\n<p><em>-Kangal koyunu boynuzsuz koyun ırklarındandır. </em></p>\r\n\r\n<p><em>-İyi beslenirse g&uuml;nl&uuml;k canlı ağırlık artışları fazladır.</em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Canlı ağırlık erkekte 70-80 kg dişide 50-60 kg dır.</em></p>\r\n\r\n<p><em>-Et randımanı %50 civarında dır.</em></p>\r\n\r\n<p><em>-Laktasyon s&uuml;resi 140-150 g&uuml;nd&uuml;r.</em></p>\r\n\r\n<p><em>-S&uuml;t verimi 55 kg dır.</em></p>\r\n\r\n<p><em>-Yıllık yapağı verimi 2 kg dır .</em></p>\r\n\r\n<p><em>-Kuzu verimi %100 civarında dır.İkizlik oranı %5 dir.</em></p>",
+        "slug": "kangal",
+        "category": 2,
+        "image": "kangal.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 9,
+    "fields": {
+        "title": "KIVIRCIK",
+        "author": 3,
+        "body": "<p><u><strong><em>Irk &ouml;zellikleri:</em></strong></u></p>\r\n\r\n<p><em>-Genellikle trakya,ege, marmara b&ouml;lgesinde yetiştirilir.</em></p>\r\n\r\n<p><em>-V&uuml;cut beyaz baş ve ayaklarda siyah lekeler olabilir, ince yapağılı, ince uzun kuyruklu, orta uzunlukta, dişiler boynuzsuz, erkekler boynuzlu, baş, karın altı ve kasıklar yapağısız, et kalitesi yerli koyun ırkları i&ccedil;erisinde en iyisidir.</em></p>\r\n\r\n<p><em>-&Uuml;lkemizde 1,834,826 tanedir.(2010) </em></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><em>-</em> <em>Canlı ağırlık erkekte 60-70 kg dişide 50-55 kg dır.</em></p>\r\n\r\n<p><em>-Kuzu doğum ağırlığı 3,7-4,1 kg dır</em></p>\r\n\r\n<p><em>-S&uuml;tten kesim ağırlığı dişide 20 kg erkekte 25 kg dır.</em></p>\r\n\r\n<p><em>-Canlı ağırlık artışı 260 gr dır.</em></p>\r\n\r\n<p><em>-Bir batımda kuzu sayısı 1,2 dir.kuzularda yaşam g&uuml;c&uuml; %96,4 d&uuml;r.</em></p>\r\n\r\n<p><em>-Laktasyon s&uuml;resi 140-180 g&uuml;nd&uuml;r.</em></p>\r\n\r\n<p><em>-S&uuml;t verimi 90-100 lt dir.</em></p>\r\n\r\n<p><em>-Yapağı verimi 1,5-2,5 kg dır.</em></p>",
+        "slug": "kivircik",
+        "category": 2,
+        "image": "KIVIRCIK-KOYUNU.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 10,
+    "fields": {
+        "title": "HEMŞİN",
+        "author": 3,
+        "body": "<p><u><strong><em>Irk &ouml;zellikleri:</em></strong></u></p>\r\n\r\n<p><em>-</em> <em>Hemşin koyunu Trabzon, Rize ve Artvin il ve il&ccedil;elerinde yetiştirilmektedir.</em></p>\r\n\r\n<p><em>-Rengi kirli beyazdan koyu kahverengi tonlara doğru yapağı rengine sahiptir.</em></p>\r\n\r\n<p><em>-A&ccedil;ık renkli yapağıya sahip olanlarda g&ouml;z etrafı, alın ve ayaklarında siyah lekeler g&ouml;r&uuml;lebilir.</em></p>\r\n\r\n<p><em>-Hemşin koyunu kuyruk dip kısmı geniş aşağıya sarktık&ccedil;a incelen bir yapıdadır. Tek par&ccedil;a uzun kuyruk yapısına sahiptir.</em></p>\r\n\r\n<p><em>-Genelde bonuz bulunmaz. Ancak ko&ccedil;larda boynuz g&ouml;r&uuml;lebilir.</em></p>\r\n\r\n<p><em>-Genelde kulakları k&uuml;&ccedil;&uuml;kt&uuml;r, bazılarında ise kulak eseridir.</em></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Canlı ağırlık erkekte 65-70 kg dişide 55-60 kg dır.</em></p>\r\n\r\n<p><em>-Doğum ağırlığı erkekte 3,4 kg dişide 3,1 kg dır.</em></p>\r\n\r\n<p><em>-Canlı ağırlık artışı erkekte 215 gr dişide 180 gr dır.</em></p>\r\n\r\n<p><em>-Bir batımda kuzu sayısı 1,1 dir.</em></p>\r\n\r\n<p><em>-Laktasyon s&uuml;resi 135-170 g&uuml;n .</em></p>\r\n\r\n<p><em>-S&uuml;t verimi 110lt dir.</em></p>\r\n\r\n<p><em>-Yapağı verimi 1,7 kg dır. </em></p>",
+        "slug": "hemsin",
+        "category": 2,
+        "image": "hemşin.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 11,
+    "fields": {
+        "title": "KARAYAKA",
+        "author": 3,
+        "body": "<p><u><strong><em>Irk &ouml;zellikleri:</em></strong></u></p>\r\n\r\n<p><em>-</em><em> Daha ziyade Orta Karadeniz b&ouml;lgesi Tokat, Amasya dahil Karadeniz kıyı şeridinde yetişir.</em></p>\r\n\r\n<p><em>-Beyaz renklidir,&nbsp;dişileri boynuzsuz ko&ccedil;lar kalın boynuzludur. </em></p>\r\n\r\n<p><em>-Kuyrukları yağsız bir koyun ırkıdır.</em></p>\r\n\r\n<p><em>-Yerli ırklarda en kaba yapağıya sahir ırktır</em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Canlı ağırlık erkekte 60 kg dişide 45 kg dır.</em></p>\r\n\r\n<p><em>-Laktasyon s&uuml;resi 130-140 g&uuml;nd&uuml;r.</em></p>\r\n\r\n<p><em>-S&uuml;t verimi 40-50kg dır.</em></p>\r\n\r\n<p><em>-İkiz doğum oranı %4-8 civarıdır.</em></p>\r\n\r\n<p><em>-D&ouml;l verimi %90 dır.</em></p>\r\n\r\n<p><em>-Yapağı verimi 2-2,5 kg dır. </em></p>",
+        "slug": "karayaka",
+        "category": 2,
+        "image": "karayaka.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 12,
+    "fields": {
+        "title": "TUJ",
+        "author": 3,
+        "body": "<p><u><strong><em>Irk &ouml;zellikleri:</em></strong></u></p>\r\n\r\n<p><em>-</em> <em>Kars, Ardahan, Iğdır ve civarında tuj koyunu yetiştirilmektedir. Tuj koyunu, y&ouml;rede koyun besiciliği ve koyun s&uuml;t&uuml; i&ccedil;in yetiştirilmektedir.</em></p>\r\n\r\n<p><em>-Toplam damızlık koyun sayısı 100.000 adet civarında olduğu tahmin edilmektedir.</em></p>\r\n\r\n<p><em>-Yapağı rengi parlak beyazdır. </em></p>\r\n\r\n<p><em>-</em> <em>Ağız, burun, g&ouml;z ve ayaklarda siyahlıklar mevcuttur. Ayaklarda bazen kahverengi olabilir.</em></p>\r\n\r\n<p><em>-Y&uuml;z kısmı yapağısızdır.</em></p>\r\n\r\n<p><em>-Ko&ccedil;lar boynuzlu olup, dişi koyunlarda boynuz bulunmaz.</em></p>\r\n\r\n<p><em>-Yarı yağlı kuyruklu koyun ırkı olarak bilinir.</em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Canlı ağırlık erkekte 60 kg dişide 50-55 kg dır.</em></p>\r\n\r\n<p><em>-Doğum ağırlığı 3,56-3,75 kg dır.</em></p>\r\n\r\n<p><em>-Canlı ağırlık artışı 195 gr dır.</em></p>\r\n\r\n<p><em>-Bir batımda kuzu sayısı 1,08-1,26 dır.</em></p>\r\n\r\n<p><em>-Kuzu yaşama g&uuml;c&uuml; %80-94 d&uuml;r.</em></p>\r\n\r\n<p><em>-Laktasyon s&uuml;resin 124 g&uuml;n.S&uuml;t verimi 45 lt dir.</em></p>\r\n\r\n<p><em>-Yapağı verimi 2,48 kg dır. </em></p>",
+        "slug": "tuj",
+        "category": 2,
+        "image": "tuj.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 13,
+    "fields": {
+        "title": "SÖNMEZ KOYUNU",
+        "author": 3,
+        "body": "<p><u><strong><em>Irk &ouml;zellikleri:</em></strong></u></p>\r\n\r\n<p><em>-</em> <em>Tahirova koyunu ve sakız koyunu melezleme &ccedil;alışmasından s&ouml;nmez koyunu elde edilmiştir. % 75 tahirova koyunu, % 25 sakız koyunu genotipi i&ccedil;eren s&ouml;nmez koyunu iri yapılı bir koyundur.</em></p>\r\n\r\n<p><em>-V&uuml;cutları tamamen beyaz yapağı ile kaplıdır. </em></p>\r\n\r\n<p><em>-Koyunlar boynuzsuz olup, ko&ccedil;larda kısa veya eseri bonuz g&ouml;r&uuml;n&uuml;m&uuml; vardır. </em></p>\r\n\r\n<p><em>-Kuyruklar ince, uzun ve yağsız bir yapıya sahiptir. </em></p>\r\n\r\n<p><em>-S&ouml;nmez koyunu Marmara b&ouml;lgesi (Trakya dahil) i&ccedil; ege ve batı Karadeniz b&ouml;lgelerinde ağırlıklı olarak yetiştirilmektedir.</em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Canlı ağırlık erkekte 90-100 kg dişide 60-65 kg dır.</em></p>\r\n\r\n<p><em>-D&ouml;rd&uuml;nc&uuml; ay canlı ağırlık 35-40 kg dır.</em></p>\r\n\r\n<p><em>-Doğumda kuzu sayısı %170-180 dir.</em></p>\r\n\r\n<p><em>-Laktasyon s&uuml;resi 200-240 g&uuml;n d&uuml;r.</em></p>\r\n\r\n<p><em>-S&uuml;t verimi 350-400 lt dir.</em></p>\r\n\r\n<p><em>-Yapağı verimi 3-4 kg dır. </em></p>",
+        "slug": "sonmez-koyunu",
+        "category": 2,
+        "image": "sönmez.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 14,
+    "fields": {
+        "title": "BANDIRMA KOYUNU",
+        "author": 3,
+        "body": "<p><em>I<u><strong>rk &ouml;zellikleri:</strong></u></em></p>\r\n\r\n<p><em>-</em> <em>Siyah başlı alman et ko&ccedil;u ile kıvırcık koyunu &ccedil;iftleşmesi sonucu oluşmuştur.</em></p>\r\n\r\n<p><em>-G&uuml;ney marmarada yetiştirilir.</em></p>\r\n\r\n<p><em>-Baş ayaklar siyah g&ouml;vde beyazdır.</em></p>\r\n\r\n<p><em>-Dişiler boynuzsuz ko&ccedil;lar boynuzlu veya boynuzsuz olabilir.</em></p>\r\n\r\n<p><em>-Kuyruk incedir.</em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Canlı ağırlık erkekte 90 kg dişide 70 kg dır.</em></p>\r\n\r\n<p><em>-Doğum ağırlığı 3,7 kg dır.</em></p>\r\n\r\n<p><em>-Bir batımda kuzu sayısı 1,3 d&uuml;r.</em></p>\r\n\r\n<p><em>-Kuzuların yaşama g&uuml;c&uuml; %95 dir.</em></p>\r\n\r\n<p><em>-Canlı ağırlık artışı 280 gr dır.</em></p>\r\n\r\n<p><em>-S&uuml;t verimi 40-60 kg dır.</em></p>",
+        "slug": "bandirma-koyunu",
+        "category": 2,
+        "image": "bandırma.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 15,
+    "fields": {
+        "title": "BAFRA",
+        "author": 3,
+        "body": "<p><u><strong><em>Irk &ouml;zellikleri:</em></strong></u></p>\r\n\r\n<p><em>-</em> <em>Sakız koyunu ile karayaka koyunu melezleme &ccedil;alışmasıyla, G&ouml;kh&ouml;y&uuml;k Tarım İşletmesinde Bafra koyunu elde edilmiştir.</em></p>\r\n\r\n<p><em>-Genetik olarak % 75 sakız koyunu, % 25 karayaka koyunu melezlemesinden elde edilmiştir.</em></p>\r\n\r\n<p><em>-Bafra koyunu &uuml;lkemizin b&uuml;t&uuml;n b&ouml;lgelerinde yetiştirilmektedir.</em></p>\r\n\r\n<p><em>-</em><em> Bafra koyunu v&uuml;cudu beyaz yapağı ile kaplı olup, sakız koyununda g&ouml;r&uuml;len ağırlıklı olarak g&ouml;z etrafı, baş ve ayaklarda siyah lekeler g&ouml;r&uuml;l&uuml;r. </em></p>\r\n\r\n<p><em>-Koyunlar boynuzsuz olup, ko&ccedil;larda boynuz bulunur. </em></p>\r\n\r\n<p><em>-Bafra koyunu kuyruğu ince uzun olup, dip kısımlarında hafif yağlanma g&ouml;r&uuml;l&uuml;r. </em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em><em> Canlı ağılık koyunlarda 60 kg ko&ccedil;larda ise 70 kg ortalamasında olmaktadır.</em></p>\r\n\r\n<p><em>-Karkas randımanı %48-50 dir. </em></p>\r\n\r\n<p><em>-Kuzu doğum ağırlığı 4kg dır.Yaşama g&uuml;c&uuml; %91 dİr.</em></p>\r\n\r\n<p><em>-Bir batımda kuzu sayısı 2 dir.</em></p>\r\n\r\n<p><em>-Laktasyon s&uuml;resi 170-180 g&uuml;nd&uuml;r.</em></p>\r\n\r\n<p><em>-S&uuml;t verimi 120-130 lt dir.</em></p>\r\n\r\n<p><em>-Yapağı verimi 2 kg dır. </em></p>",
+        "slug": "bafra",
+        "category": 2,
+        "image": "bafra.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 16,
+    "fields": {
+        "title": "ACIPAYAM",
+        "author": 3,
+        "body": "<p><u><strong><em>Irk &ouml;zellikleri:</em></strong></u></p>\r\n\r\n<p><em>-</em> <em>Acıpayam koyunu, Acıpayam Tigem&rsquo;de doğu friz koyunu, ivesi koyunu ve dağlı&ccedil; koyunu &ccedil;apraz melezleme yoluyla elde edilmiştir.(&nbsp;%50 ivesi %25 dağlı&ccedil; %25 d.friz )</em></p>\r\n\r\n<p><em>-V&uuml;cudu tamamen aynı tip beyaz yapağı ile kaplıdır. </em></p>\r\n\r\n<p><em>-Sadece baş kısmında kahverengi ve siyah lekeler bulunabilir. </em></p>\r\n\r\n<p><em>-Kuyruk yapıları orta yağlı kuyruk tipidir. </em></p>\r\n\r\n<p><em>-Ko&ccedil;lar boynuzlu, koyunlar boynuzsuzdur.</em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Canlı ağırlık erkekte 100-130 kg dişide 60-70 kg dır.</em></p>\r\n\r\n<p><em>-G&uuml;nl&uuml;k canlı ağırlık artışı 300 gr dır.</em></p>\r\n\r\n<p><em>-Bir batımda kuzu sayısı 1,3 d&uuml;r.</em></p>\r\n\r\n<p><em>-Laktasyon s&uuml;resi 90-110 g&uuml;nd&uuml;r.</em></p>\r\n\r\n<p><em>-S&uuml;t verimi 80-150 lt dir.</em></p>\r\n\r\n<p><em>-Yapağı verimi3- 4 kg dır. </em></p>",
+        "slug": "acipayam",
+        "category": 2,
+        "image": "acipayam-koyunu-ozellikleri-ve-acipayam-koyunu-yetistirme_1-825x450.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 17,
+    "fields": {
+        "title": "MALYA",
+        "author": 3,
+        "body": "<p><u><strong><em>Irk &ouml;zellikleri:</em></strong></u></p>\r\n\r\n<p><em>-</em> <em>Malya koyunu, Alman et merinos koyunu ile akkaraman koyunu melezlemesinden oluşturulmuştur. Bu melezleme&nbsp;ile et&ccedil;i koyun yetiştirilmesi ama&ccedil;lanmıştır.</em></p>\r\n\r\n<p><em>-Tamamen İ&ccedil; Anadolu b&ouml;lgesine adepte olarak yetiştirilen malya koyunundan bu b&ouml;lgede iyi verim alındığı bilinmektedir.</em></p>\r\n\r\n<p><em>-Malya koyununun v&uuml;cudu beyazdır.&nbsp;</em></p>\r\n\r\n<p><em>-Baş ve bacaklarda siyah lekeler bulunabilir. Kuyrukları yarım yağlı koyunlardandır.</em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Ergin dişi koyunlarda canlı ağırlık 45-50 kg. ko&ccedil;larda 70-90 kg. ortalamasındadır.</em></p>\r\n\r\n<p><em>-Koyunlarda laktasyon s&uuml;resi 120 civarında olup, bir laktasyon d&ouml;neminde 30-35 litre s&uuml;t verimi vardır.&nbsp;</em></p>\r\n\r\n<p><em>-D&ouml;l verimi % 110 civarında olup, etteki randımanı % 48 ortalamasında bulunmaktadır.</em></p>\r\n\r\n<p><em>-Koyun başına yıllık yapağı verimi ortalama olarak 2,5 kg. civarında olmaktadır.</em></p>",
+        "slug": "malya",
+        "category": 2,
+        "image": "malya.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 18,
+    "fields": {
+        "title": "TAHİROVA",
+        "author": 3,
+        "body": "<p><u><strong><em>Irk &ouml;zellikleri:</em></strong></u></p>\r\n\r\n<p><em>-</em> <em>Trakya, Marmara ve Ege B&ouml;lgeleri&rsquo;nde yetiştirilen&nbsp;kıvırcık koyunu<u> </u>ile Alman s&uuml;t koyunu Doğu Friz&rsquo;in melezlenmesi ile elde edilmiştir.(%75 FRİZ %25 KIVIRCIK )</em></p>\r\n\r\n<p><em>-V&uuml;cut, baş ve bacaklar beyazdır.</em></p>\r\n\r\n<p><em>-Koyunlar boynuz g&ouml;r&uuml;lmezken, ko&ccedil;larda boynuzlulara rastlanabilir.</em></p>\r\n\r\n<p><em>-Kuyruk yapısı ince ve yapağısızdır. </em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Canlı ağırlık erkekte 70-80 kg dişide 50-55 kg dır .</em></p>\r\n\r\n<p><em>-Karkas randımanı %50 dir.</em></p>\r\n\r\n<p><em>-Kuzu doğum ağırlığı 3,5-4,5 &nbsp;kg dır.</em></p>\r\n\r\n<p><em>-Kuzulama oranı %160 dır.</em></p>\r\n\r\n<p><em>-Laktasyon s&uuml;resi 180-200 g&uuml;n d&uuml;r.</em></p>\r\n\r\n<p><em>-S&uuml;t verimi 240 lt dir.</em></p>\r\n\r\n<p><em>-Yapağı verimi 2 kg dır.</em></p>",
+        "slug": "tahirova",
+        "category": 2,
+        "image": "tahirova.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 19,
+    "fields": {
+        "title": "KONYA MERİNOSU",
+        "author": 3,
+        "body": "<p><u><strong><em>Irk &ouml;zellikleri:</em></strong></u></p>\r\n\r\n<p><em>-</em> <em>Merinos koyunu,&nbsp;dokuma end&uuml;strisinin işlevi ve kaliteli yapağı &uuml;retimi i&ccedil;in, yetiştirilmektedir.&nbsp;</em></p>\r\n\r\n<p><em>-Merinos koyunu,&nbsp;dokuma end&uuml;strisinin işlevi ve kaliteli yapağı &uuml;retimi i&ccedil;in, yetiştirilmektedir.&nbsp;</em></p>\r\n\r\n<p><em>-V&uuml;cut, baş ve kuyruklar beyazdır.</em></p>\r\n\r\n<p><em>-Kuyruk ince ve uzundur.&nbsp;</em></p>\r\n\r\n<p><em>-Koyunlar ve ko&ccedil;ları boynuzsuzdur.&nbsp;</em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Canlı ağırlık erkekte 65-75 kg dişide 50-55 kg dır.</em></p>\r\n\r\n<p><em>-Kuzu doğum ağırlığı 4-4,5 kg dır.</em></p>\r\n\r\n<p><em>-İkizlik oranı %35-40 dır.</em></p>\r\n\r\n<p><em>-Laktasyon s&uuml;resi 140-150 g&uuml;nd&uuml;r.</em></p>\r\n\r\n<p><em>-S&uuml;t verimi 40-50 kg dır.</em></p>\r\n\r\n<p><em>-Yapağı verimi 3,5-7 kg dır.</em></p>",
+        "slug": "konya-merinosu",
+        "category": 2,
+        "image": "konya_merinosu.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 20,
+    "fields": {
+        "title": "KARACABEY MERİNOSU",
+        "author": 3,
+        "body": "<p><u><strong><em>Irk &ouml;zellikleri:</em></strong></u></p>\r\n\r\n<p><em>-</em> <em>Alman et merinosları ile Kıvırcık koyunlarının melezlemesi y&ouml;ntemi ile &ccedil;iftleştirilmesi sonucu elde edilmiş bir koyundur. B&uuml;y&uuml;k &ccedil;oğunlukla % 90 gibi Merinos koyun geni taşırlar.</em></p>\r\n\r\n<p><em>-V&uuml;cudu komple beyazdır.&nbsp;</em></p>\r\n\r\n<p><em>-Kuyruklar ince ve uzundur</em></p>\r\n\r\n<p><em>-Koyunlar boynuzsuz ko&ccedil;ların %15 i boynuzludur. </em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Canlı ağırlı erkekte 70-90 kg dişide 60-65 kg dır.</em></p>\r\n\r\n<p><em>-Doğum ağırlığı 4,5-5,5 kg dır.</em></p>\r\n\r\n<p><em>-İkiz doğum oranı %10-25 dir.</em></p>\r\n\r\n<p><em>-Laktasyon s&uuml;resi 130-140 g&uuml;nd&uuml;r.</em></p>\r\n\r\n<p><em>-S&uuml;t verimi 70-80 kg dır.</em></p>\r\n\r\n<p><em>-Yapağı verimi 3,9-4,5 kg dır.</em></p>",
+        "slug": "karacabey-merinosu",
+        "category": 2,
+        "image": "karacabey_merinosu.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 21,
+    "fields": {
+        "title": "MENEMEN KOYUNU",
+        "author": 3,
+        "body": "<p><u><strong><em>Irk &ouml;zellikleri:</em></strong></u></p>\r\n\r\n<p><em>-</em> <em>Ile de&nbsp;France ko&ccedil;ları ile Tahirova koyunları melezleme &ccedil;alışmasıyla elde edilmiştir.(%25 tahirova %75 france )</em></p>\r\n\r\n<p><em>-Menemen koyunu yapağısı beyaz renklidir.</em></p>\r\n\r\n<p><em>-Yağsız ince kuyruğa sahip melez bir koyun ırkıdır.</em></p>\r\n\r\n<p><em>-Koyun ve ko&ccedil;larda boynuz g&ouml;r&uuml;lmez.</em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Kuzulama oranı %140 dır.</em></p>\r\n\r\n<p><em>-Laktasyon s&uuml;resi 120 g&uuml;nd&uuml;r.</em></p>\r\n\r\n<p><em>-S&uuml;t verimi 150 lt dir.</em></p>\r\n\r\n<p><em>-Yapağı verimi 4-5 kg dır. </em></p>",
+        "slug": "menemen-koyunu",
+        "category": 2,
+        "image": "menemen_koyunu.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 22,
+    "fields": {
+        "title": "KATAHDİN",
+        "author": 3,
+        "body": "<p><u><strong><em>Irk &ouml;zellikleri:</em></strong></u></p>\r\n\r\n<p><em>-anavatanı kuzey amerikadır.</em></p>\r\n\r\n<p><em>-</em> <em>Kanada&rsquo;da et tipi olarak yetiştirilen katahdin koyunu, ikiz ve &uuml;&ccedil;&uuml;z doğum oranı y&uuml;ksek bir koyun ırkıdır.&nbsp;</em></p>\r\n\r\n<p><em>-Renkleri genelde beyazdır.a&ccedil;ık kahve ve bej renkli benekleri olanda vardır.</em></p>\r\n\r\n<p><em>-Boynuzsuzdur.</em></p>\r\n\r\n<p><em>-D&ouml;l verimi y&uuml;ksektir.</em></p>\r\n\r\n<p><em>-Ko&ccedil;larda boyun altında yele vardır.</em></p>\r\n\r\n<p><em>-Kuyruklar ince ve uzun dur. </em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Canlı ağırlık erkekte 80-110 kg dişide 55-85 kg dır.</em></p>\r\n\r\n<p><em>-Bir batımda kuzu sayısı 2 dir.</em></p>\r\n\r\n<p><em>-Yetiştiriciler 8 yaşına kadar damızlık olarak kullanmasına karşın, 12 yaşına kadar aynı verimlerini s&uuml;rd&uuml;rebilirler. Yani etkin doğum yapma &ouml;zelliği devam etmektedir. </em></p>\r\n\r\n<p><em>-Parazitlere karşı dayanıklı olup, minimum parazit m&uuml;cadelesi yeterlidir. </em></p>",
+        "slug": "katahdin",
+        "category": 2,
+        "image": "katahdin.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 23,
+    "fields": {
+        "title": "İle de france",
+        "author": 3,
+        "body": "<p><u><strong><em>Irk &ouml;zellikleri:</em></strong></u></p>\r\n\r\n<p><em>-</em> <em>Paris ve &ccedil;evresindeki meralarda yetiştirilmektedir.</em></p>\r\n\r\n<p><em>-T&uuml;m v&uuml;cudu beyaz yapağı ile kaplanmıştır. </em></p>\r\n\r\n<p><em>-Kulaklar b&uuml;y&uuml;k ve dik olarak ileri doğru y&ouml;nlenmiştir. </em></p>\r\n\r\n<p><em>-Boyun yapısı kalın ve kısadır. </em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em><em> Canlı ağırlık ko&ccedil;larda 110 ile 150 kg, koyunlarda ise 80 ile 90 kg arası değişmektedir. </em></p>\r\n\r\n<p><em>-100 g&uuml;nl&uuml;k kuzular kasaplık olarak kesime gelir. Ortalama 20 kg karkas et verimine sahiptir. </em></p>\r\n\r\n<p><em>-Etteki randıman % 55 bazı yerlerde % 60 &ccedil;ıktığı g&ouml;r&uuml;lm&uuml;şt&uuml;r. </em></p>\r\n\r\n<p><em>-Bir batında doğum 1.4 ortalamasındadır. </em></p>\r\n\r\n<p><em>-Yapağı verimi 4 ile 6 kg arasında değişir.</em></p>\r\n\r\n<p><em>-s&uuml;t verimi 200-450 litredir.</em></p>\r\n\r\n<p><em>-laktasyon s&uuml;resi 150-250 g&uuml;nd&uuml;r.</em></p>",
+        "slug": "ile-de-france",
+        "category": 2,
+        "image": "ile_de_frans.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 24,
+    "fields": {
+        "title": "TEXEL",
+        "author": 3,
+        "body": "<p><u><strong><em>Irk &ouml;zellikleri:</em></strong></u></p>\r\n\r\n<p><em>-</em> <em>Texel koyun k&ouml;keni bilinmemekle beraber, Hollanda&rsquo;nın batı kıyılarında bir&ccedil;ok koyun ırkı &ouml;zelliğini taşıyan et koyunu olarak yetiştirilmiştir.&nbsp;</em></p>\r\n\r\n<p><em>-V&uuml;cut tamamen beyaz yapağı ile kaplıdır. </em></p>\r\n\r\n<p><em>-Siyah burun delikleri, geniş y&uuml;z, k&uuml;&ccedil;&uuml;k kulaklar karakteristik &ouml;zelliğidir. </em></p>\r\n\r\n<p><em>-Y&uuml;z ve ayakları yapağısız olup, tırnaklar siyahtır. </em></p>\r\n\r\n<p><em>-Kuyruksuz koyun ırklarındandır.</em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Canlı ağırlık erkekte 100-120 kg dişide 65-80 kg dır.</em></p>\r\n\r\n<p><em>-Canlı ağırlık artışı 250 gr dır.</em></p>\r\n\r\n<p><em>-Karkas randımanı %55 &uuml;zerinde dir.</em></p>\r\n\r\n<p><em>-Yıllık yapağı verimi 4 Kg ortalamasındadır. </em></p>",
+        "slug": "texel",
+        "category": 2,
+        "image": "Texel-sheep.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 25,
+    "fields": {
+        "title": "DORPER",
+        "author": 3,
+        "body": "<p><u><strong><em>Irk &ouml;zellikleri:</em></strong></u></p>\r\n\r\n<p><em>-</em> <em>Dorper koyunu, İngiliz dorsethorn koyunu ile Somali&rsquo;de yetiştirilen persian blackhead koyunu melezlemesinden oluşmuş koyun ırkıdır.&nbsp;</em></p>\r\n\r\n<p><em>-Dorper koyunu d&uuml;nyada iki &ccedil;eşidi olduğu bilinmektedir. Dorper koyunu ve beyaz dorper koyunu olarak ayrılmaktadırlar.</em></p>\r\n\r\n<p><em>-ikisi arasındaki en &ouml;nemli fark;&nbsp;Dorper koyunu v&uuml;cudu beyaz yapağı ile kaplı iken baş ve boyun kısmı koyu siyah yapağı ile kaplıdır.</em></p>\r\n\r\n<p><em>-Beyaz dorper koyunu ise genelde t&uuml;m v&uuml;cudu kirli beyaz renkli yapağı ile kaplıdır.</em></p>\r\n\r\n<p><em>-Kuyruksuz bir koyun ırkıdır. </em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Canlı ağırlık erkekte 120-130 kg dişide 100 kg dır.</em></p>\r\n\r\n<p><em>-Dorper koyunu kuzusu 12 aylık olunca 70 &ndash; 80 kg. canlı ağırlığa ulaşabilir.</em></p>\r\n\r\n<p><em>-Kuzuların doğum ağırlığı 1,5 kg dır. </em></p>",
+        "slug": "dorper",
+        "category": 2,
+        "image": "dorper.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 26,
+    "fields": {
+        "title": "DOĞU FRİZ",
+        "author": 3,
+        "body": "<p><u><strong><em>Irk &ouml;zellikleri:</em></strong></u></p>\r\n\r\n<p><em>-</em> <em>Anavatanı Almanya olan koyun ırkıdır.&nbsp;</em></p>\r\n\r\n<p><em>-erkek ve dişilerin boynuzsuz&nbsp;</em></p>\r\n\r\n<p><em>-Genelde v&uuml;cutları beyaz yapağı ile kaplıdır. Safkan siyah renk yapağılı olanlarda mevcut olup, d&uuml;nyada en &ccedil;ok tutulanı beyaz renkli olanıdır.</em></p>\r\n\r\n<p><em>-Kuyruk yapısı ince uzun ve yağsızdır.</em></p>\r\n\r\n<p><em>-Burun ucu a&ccedil;ık pembe renkli g&ouml;r&uuml;n&uuml;me sahiptir.</em></p>\r\n\r\n<p><em>-&ccedil;oklu doğum oranı iyidir.</em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Canlı ağırlık erkekte 90-120 kg dişide 70-90 kg dır.</em></p>\r\n\r\n<p><em>-Canlı ağırlık artışı 300 gr dır.</em></p>\r\n\r\n<p><em>-Laktasyon s&uuml;resi 200-220 g&uuml;n d&uuml;r.</em></p>\r\n\r\n<p><em>-S&uuml;t verimi 400-600 lt dir.</em></p>\r\n\r\n<p><em>-Yapağı verimi 4 kg dır. </em></p>",
+        "slug": "dogu-friz",
+        "category": 2,
+        "image": "doğu_friz.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 27,
+    "fields": {
+        "title": "ROMANOV",
+        "author": 3,
+        "body": "<p><u><strong><em>Irk &ouml;zellikleri:</em></strong></u></p>\r\n\r\n<p><em>-</em> <em>Romanov koyununu anavatanı&nbsp;Rusya&rsquo;dır.</em></p>\r\n\r\n<p><em>-Romanov dişi damızlık koyunların diğer bir adı da<strong>&nbsp;kuzu makinası</strong>&nbsp;olarak bilinir.</em></p>\r\n\r\n<p><em>-İlk doğduğunda siyah renklidir gittik&ccedil;e rengi griye d&ouml;ner.</em></p>\r\n\r\n<p><em>-Dişileri boynuzsuzdur.</em></p>\r\n\r\n<p><em>-Adaptasyon kabiliyeti y&uuml;ksektir. </em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Canlı ağırlık erkekte 55-80 kg dişide 40-50 kg dır.</em></p>\r\n\r\n<p><em>-Kuzu doğum ağırlığı 2,2 kg dır.</em></p>\r\n\r\n<p><em>-Bir batımda kuzu sayısı 2,35-2,45 dir.</em></p>\r\n\r\n<p><em>-3-4 ayda kızgınlık g&ouml;sterir.</em></p>\r\n\r\n<p><em>-Laktasyon s&uuml;resi 100 g&uuml;n d&uuml;r.</em></p>\r\n\r\n<p><em>-S&uuml;t verimi 150-200 kg dır.</em></p>\r\n\r\n<p><em>-Yapağı verimi 4,5 kg dır.</em></p>",
+        "slug": "romanov",
+        "category": 2,
+        "image": "romanov.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 28,
+    "fields": {
+        "title": "SUFFOLK",
+        "author": 3,
+        "body": "<p><u><strong><em>Irk &ouml;zellikleri:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </em></strong></u></p>\r\n\r\n<p><em>-</em> <em>Suffolk koyunu, İngiltere&rsquo;de yetiştirilen sayıca az koyun ırkı olarak bilinir.&nbsp;</em></p>\r\n\r\n<p><em>-Baş ve ayaklar siyah g&ouml;vde beyazdır.</em></p>\r\n\r\n<p><em>-Boynuzsuzdur.</em></p>\r\n\r\n<p><em>-D&ouml;l verimi y&uuml;ksektir. </em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Canlı ağırlık erkekte 113-159 kg dişide 81-113 kg dır.</em></p>\r\n\r\n<p><em>-ikizlik oranı 1.5-1.7 dir.</em></p>\r\n\r\n<p><em>-Y&uuml;n verimi 2,5-3,6 kg dır. </em></p>",
+        "slug": "suffolk",
+        "category": 2,
+        "image": "k_suffolk-9900.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 29,
+    "fields": {
+        "title": "LACAUNE",
+        "author": 3,
+        "body": "<p><u><strong><em>Irk &ouml;zellikleri:</em></strong></u></p>\r\n\r\n<p><em>-G&uuml;ney Fransa&rsquo;da Lacaune b&ouml;lgesinde ilk olarak yetiştirilir.</em></p>\r\n\r\n<p><em>-Fransa&rsquo;da s&uuml;t koyunu olarak yetiştirilen ve Fransa&rsquo;nın mevcut koyun varlığının % 20 sini lacaune koyunu olduğu bilinmektedir.</em></p>\r\n\r\n<p><em>-Bu koyun ırkının Fransa&rsquo;da s&uuml;t koyunu olarak yetiştirilmesinin en &ouml;nemli &ouml;zelliği s&uuml;t&uuml;nden, Fransızların d&uuml;nyaca &uuml;nl&uuml; kendi deyimleri ile roguefort peyniri elde etmeleridir. Roguefort peyniri ayrıca &ldquo;rokfor peyniri&rdquo; olarak bilinir.</em></p>\r\n\r\n<p><em>-V&uuml;cudu beyaz yapağı ile kaplı olup; ayaklar, karın altı, boyun ve başta yapağı bulunmaz. </em></p>\r\n\r\n<p><em>-Erkek ve dişi koyunlar boynuzsuzdur.</em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em><em> S&uuml;t&uuml; yağlı olup, &ouml;zel peynir yapımına &ccedil;ok elverişlidir. </em></p>\r\n\r\n<p><em>-Kaliteli ete sahiptir. </em></p>\r\n\r\n<p><em>-Canlı ağırlık yetişkin erkeklerde 90 &ndash; 110 Kg. Dişilerde ise 70 -80 Kg. dır. </em></p>\r\n\r\n<p><em>-Yapağı verimi, erişkin koyunlarda yıllık ortalaması 2 Kg. dır.</em></p>\r\n\r\n<p><em>-Bir laktasyon d&ouml;neminde iyi bakım yapılırsa 280 Litre s&uuml;t verimini yakalar. </em></p>",
+        "slug": "lacaune",
+        "category": 2,
+        "image": "lacaune.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 30,
+    "fields": {
+        "title": "CHAROLLAİS",
+        "author": 3,
+        "body": "<p><u><strong>Irk &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-</em> <em>Charollais koyununun anavatanı Fransa&rsquo;nın Saone et Loire b&ouml;lgesidir.&nbsp;</em></p>\r\n\r\n<p><em>-Charollais koyunu, Fransa&rsquo;da bu b&ouml;lgenin yerli koyunları ile İngiliz dishley leeicesterile koyunu ile melezlemelerinden elde edilmiştir.</em></p>\r\n\r\n<p><em>-Başlar yapağısız olup, pembemsi bir renge sahiptir. Başlarda bazen lekeler g&ouml;r&uuml;lebilir. Ayaklarda da aynı g&ouml;r&uuml;nt&uuml; mevcuttur. V&uuml;cut genelinde yapağı beyazdır.</em></p>\r\n\r\n<p><em>-Charollais koyun kuyruksuz koyun ırklarındandır.</em></p>\r\n\r\n<p><u><strong>Verim &ouml;zellikleri:</strong></u></p>\r\n\r\n<p><em>-Doğum ağırlığı 4-5 kg dır.</em></p>\r\n\r\n<p><em>-Canlı ağırlık artışı 400-500 gr dır.</em></p>\r\n\r\n<p><em>-Canlı ağırlık erkekte 100-130 kg dişide 80-90 kg dır.</em></p>\r\n\r\n<p><em>-Karkas randımanı %55 dir.</em></p>\r\n\r\n<p><em>-&nbsp;Kuzu verimi % 180 civarındadır.</em></p>",
+        "slug": "charollais",
+        "category": 2,
+        "image": "şarole.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 31,
+    "fields": {
+        "title": "Koyun agılının fiziksel özellikleri",
+        "author": 3,
+        "body": "<p><em><strong>-Gebe veya emziren her bir&nbsp; koyun i&ccedil;in 2,5 metre kare alan planlanmalıdır</strong></em></p>\r\n\r\n<p><em><strong>-Erkek veya dişi her &nbsp;toklu i&ccedil;in 1 metrekare alan planlanmalıdır</strong></em></p>\r\n\r\n<p><em><strong>-her bir Ko&ccedil; i&ccedil;in 1,5-2 &nbsp;metrekare ,.her bir Koyun i&ccedil;in 1,5 metrekare&nbsp; alan planlanmalıdır</strong></em></p>\r\n\r\n<p><em><strong>-her bir Kuzu i&ccedil;in (0-6 aylık) 0,7 metrekare alan planlanmalıdır</strong></em></p>\r\n\r\n<p><em><strong>- S&uuml;r&uuml;de doğum yapacak her 10 baş koyun i&ccedil;in hayvan başına 2,5 m&sup2; alan d&uuml;şecek şekilde doğum b&ouml;lmesi planlanmalıdır.</strong></em></p>\r\n\r\n<p><em><strong>- Her 50 baş koyuna en az 2 m&sup2; alan d&uuml;şecek şekilde revir planlanmalıdır</strong></em></p>\r\n\r\n<p><em><strong>-<span style=\"color:black\">a</span><span style=\"color:black\">ğıl</span> Y&uuml;ksekliği en az 2.75 metre planlanmalıdır.500 baş ve &uuml;zeri hayvan varsa 4 metre planlanmalıdır.</strong></em></p>\r\n\r\n<p><em><strong>-bakım,besleme ve emiştirmenin yapıldığı avlu ağıl tabanının 2 katı olmalıdır.</strong></em></p>\r\n\r\n<p><em><strong>-Ağıl kapıları 3 m genişlikte 2.75 y&uuml;kseklikte planlanmalıdır.kapılar dışarıya doğru a&ccedil;ılmalıdır.</strong></em></p>\r\n\r\n<p><em><strong>-hayvan sayısının fazla olduğu ağıllarda birden fazla kapı kullanılmalıdır.</strong></em></p>\r\n\r\n<p><em><strong>-<span style=\"background-color:white\"><span style=\"color:black\"> Yemlikler kaba ve kesif yemlerin birlikte verildiği tarzda&nbsp;</span></span>planlanmalıdır</strong></em></p>\r\n\r\n<p><em><strong>-Tek taraflı yemliklerde yemlik genişliği 40-50 cm planlanmalıdır.<span style=\"background-color:white\"><span style=\"color:black\"> &ccedil;ift taraflı yemliklerde 70-80 cm </span></span>planlanmalıdır.</strong></em></p>\r\n\r\n<p><em><strong>-Yemliklerin uzunluğu &nbsp;hayvan başına koyun i&ccedil;in 0.4 m, ko&ccedil; i&ccedil;in 0.5 m, kuzu i&ccedil;in 0.2 m planlanmalıdır</strong></em></p>\r\n\r\n<p><em><strong>-Yemliklerin y&uuml;ksekliği 30-40 cm planlanmalıdır</strong></em></p>\r\n\r\n<p><em><strong>-Su yalaklarının uzunluğu 2,0-4,0 metre y&uuml;ksekliği 40 cm planlanmalıdır.<span style=\"background-color:white\"><span style=\"color:black\"> Her 10 koyun i&ccedil;in 40 cm suluk kenarı hesaplanmalıdır.</span></span></strong></em></p>\r\n\r\n<p><em><strong><span style=\"background-color:white\"><span style=\"color:black\">- Her hayvan i&ccedil;in 4 metre&sup3; hava hesap edilmelidir.</span></span></strong></em></p>\r\n\r\n<p><em><strong><span style=\"background-color:white\"><span style=\"color:black\">-</span></span> Havalandırma bacaları &ccedil;atı mahyasından az 50 cm y&uuml;ksekte yapılmalıdır.</strong></em></p>\r\n\r\n<p><em><strong><span style=\"background-color:white\"><span style=\"color:black\">- &ccedil;atı eğimi en az % 26 olacak şekilde planlanmalıdır.</span></span></strong></em></p>\r\n\r\n<p><em><strong><span style=\"background-color:white\"><span style=\"color:black\">-</span></span> Pencere alanı b&ouml;lgelere g&ouml;re değişmekle birlikte taban alanının %10-15&rsquo;i kadar olmalıdır. </strong></em></p>\r\n\r\n<p><em><strong>-&ccedil;atı malzemesi sıcak ve soğuğu ge&ccedil;irmeyen malzemeden yapılmalıdır.(sandvi&ccedil; panel)</strong></em></p>",
+        "slug": "koyun-aglnn-fiziksel-ozellikleri",
+        "category": 7,
+        "image": "tam-kapali-koyun-agil-ornegi.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 32,
+    "fields": {
+        "title": "Damızlık seçimi",
+        "author": 3,
+        "body": "<p><em><strong>-damızlık olarak se&ccedil;eceğimiz koyun ve ko&ccedil;ların ırk &ouml;zelliklerini taşıması gerekir.</strong></em></p>\r\n\r\n<p><em><strong>-damızlık se&ccedil;imi yapılırken &ouml;ncelikle s&uuml;r&uuml; takibinin yapılması gerekmektedir.</strong></em></p>\r\n\r\n<p><em><strong>-eğer kendi kuzularımızdan damızlık ayıracaksak veya gen&ccedil;leştirme işlemi yapılacak ise kullandığımız damızlık koyunların doğumlardaki ortama kuzu sayısı &ouml;nem teşkil eder.</strong></em></p>\r\n\r\n<p><em><strong>-kuzu verimi y&ouml;n&uuml;nden damızlık se&ccedil;imi yaparken &ouml;ncelikle damızlık olarak ayrılacak kuzuların ikiz veya &ccedil;oklu doğum olması tercih edilir ve bunun yanında annelerinin ikizlik oranı y&uuml;ksek olmalıdır.</strong></em></p>\r\n\r\n<p><em><strong>-ana&ccedil; koyunlarda ise &ouml;nceki doğumlarındaki ikizlik oranları y&uuml;ksek olmalı &nbsp;ve ikizlik oranı y&uuml;ksek anne babadan gelmesine dikkat edilmelidir.</strong></em></p>\r\n\r\n<p><em><strong>-kuzu verimi y&ouml;n&uuml;nden ko&ccedil; se&ccedil;imi yaparken ikiz ve &ccedil;oklu doğumdan olması ve annelerinin ikizlik oranına bakılmalıdır.</strong></em></p>\r\n\r\n<p><em><strong>-s&uuml;t verimi y&ouml;n&uuml;nden damızlık se&ccedil;imi yapacaksak g&uuml;nl&uuml;k s&uuml;t verimi y&uuml;ksek koyunlar ve kuzuları se&ccedil;ilmelidir.Şe&ccedil;ilecek koyunların meme yapısının iyi olmasına dikkat edilmelidir.</strong></em></p>\r\n\r\n<p><em><strong>-iri kuzu elde etmek amacıyla damızlık se&ccedil;imi yapacaksak iri koyunları damızlık olarak tercih edilmeli ve kuzuların s&uuml;tten kesim ağırlıkları g&ouml;z &ouml;n&uuml;nde bulundurulmalıdır.</strong></em></p>\r\n\r\n<p><em><strong>-ko&ccedil; se&ccedil;imi yaparken hayaların birbirine eşit ve b&uuml;y&uuml;k olmasının yanı sıra aşım isteğinin y&uuml;ksek olmasına bakılmalıdır.bu tarz ko&ccedil;ların gebe bırakma oranı y&uuml;ksektir.</strong></em></p>\r\n\r\n<p><em><strong>&nbsp;-bir s&uuml;r&uuml;de damızlık se&ccedil;iminin yanında yıllık ayıklama yapmak gerekir.</strong></em></p>\r\n\r\n<p><em><strong>-ayıklama yaparken dikkat edilecek hususlar;</strong></em></p>\r\n\r\n<p><em><strong>1-topallık ve ayak bozukluğu olan hayvanlar s&uuml;r&uuml; dışında bırakılır.</strong></em></p>\r\n\r\n<p><em><strong>2-kalıtsal problemi olan hayvanlar s&uuml;r&uuml;&nbsp; dışında bırakılır.</strong></em></p>\r\n\r\n<p><em><strong>3-zayıf doğan ve zayıf gelişen kuzular s&uuml;r&uuml; dışında bırakılır.</strong></em></p>\r\n\r\n<p><em><strong>4-bir yıl kısır kalmış zayıf koyunlar ile iki yıl &uuml;st &uuml;ste kısır kalmış koyunlar damızlık dışında bırakılır.</strong></em></p>\r\n\r\n<p><em><strong>5-&ccedil;abuk kuruya &ccedil;ıkan , meme problemi olan , s&uuml;t&uuml; kuzusuna yetmeyen, kuzuları hızlı gelişmeyen koyunlar s&uuml;r&uuml; dışında bırakılır.</strong></em></p>\r\n\r\n<p><em><strong>6-yaşlı koyunlar s&uuml;r&uuml; dışında bırakılır.</strong></em></p>",
+        "slug": "damzlk-secimi",
+        "category": 8,
+        "image": "damizlik-koyun-kuzu-koc-secimi_11111111111111111.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 35,
+    "fields": {
+        "title": "Siyah- Beyaz alaca   kırmızı-beyaz alaca(HOLSTEİN)",
+        "author": 3,
+        "body": "<p>-<span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">Anavatanı Hollanda dır.</span></span></p>\r\n\r\n<p>-D&uuml;nyanın en s&uuml;t&ccedil;&uuml; ırklarından biridir.</p>\r\n\r\n<p>-renkleri siyah-beyaz ve kırmızı beyaz olabilir.</p>\r\n\r\n<p>-soğuk hava şartlarına uyumu iyidir.</p>\r\n\r\n<p>-bir sağım d&ouml;neminde ortama olarak 7500-8000 litre s&uuml;t elde edilir. s&uuml;tteki yağ oranı d&uuml;ş&uuml;kt&uuml;r(%3-3,5).<span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\"> .(besleme ve bakım şartlarına g&ouml;re s&uuml;t verimi ve yağ oranı değişebillir.)</span></span></p>\r\n\r\n<p>-buzağı doğum ağırlığı 30-40 kilogram arasıdır.</p>\r\n\r\n<p>-erişkinlerin ağırlığı dişilerde 600-750 kilogram&nbsp; erkeklerde ise 1000 kilograma kadar ulaşabilir.</p>",
+        "slug": "siyah-beyaz-alaca-krmz-beyaz-alacaholstein",
+        "category": 5,
+        "image": "siyah-alaca.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 36,
+    "fields": {
+        "title": "Simental",
+        "author": 3,
+        "body": "<p>-<span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">Anavatanı isvi&ccedil;re&nbsp;dir.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-kombine verimli bir ırktır.(et+s&uuml;t)</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-renkleeri sarı-beyaz ve kırmızı beyazdır.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-hava şartlarına adaptasyonu iyidir. </span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-bir sağım d&ouml;neminde ortalama olarak 5000-6000 litre s&uuml;t elde edilir.yağ oranı %3.5- 4 oranındadır.(besleme ve bakım şartlarına g&ouml;re s&uuml;t verimi ve yağ oranı değişebillir.)</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-buzağı doğum ağırlığı 40-50 kilogramdır.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-</span></span> erişkinlerin ağırlığı dişilerde 600-700 kilogram&nbsp; erkeklerde ise 900-1200 kilogramdır<span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">.</span></span></p>",
+        "slug": "simental",
+        "category": 5,
+        "image": "simental.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 37,
+    "fields": {
+        "title": "MONTBELIARD",
+        "author": 3,
+        "body": "<p><strong><u><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-</span></span></u></strong><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\"> Anavatanı Fransa dır.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-genellikle s&uuml;t i&ccedil;in beslenirler.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-renkleri kırmızı-beyazdır.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-bir sağım d&ouml;neminde ortalama olarak 7000-7500 kilogramdır. Yağ oranı %3,5- 4 arasındadır.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-</span></span> erişkinlerin ağırlığı dişilerde 600-700 kilogram erkeklerde 900-1200 kilogramdır.</p>",
+        "slug": "montbeliard",
+        "category": 5,
+        "image": "montbeliard.png"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 38,
+    "fields": {
+        "title": "MONTOFON",
+        "author": 3,
+        "body": "<p>-<span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\"> Anavatanı isvi&ccedil;redir.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-d&uuml;nyada en s&uuml;t&ccedil;&uuml; ırklardan biridir.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-renkleri koyu kahve veya gri-kahvedir.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-sıcak ve soğuğa dayanıklıdır.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-bir sağım d&ouml;neminde ortalama s&uuml;t verimi 6000-8000 litredir.yağ oranı %4 t&uuml;r.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-</span></span> erişkinlerin ağırlığı dişilerde 600-700 kilogram erkeklerde 900-1000 kilogramdır.</p>\r\n\r\n<p>-buzağı doğum ağırlığı ortalama 40&nbsp; kilogramdır.</p>",
+        "slug": "montofon",
+        "category": 5,
+        "image": "montofon.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 39,
+    "fields": {
+        "title": "Jersey",
+        "author": 3,
+        "body": "<p>-<span style=\"background-color:white\"><span style=\"color:#777777\"> Anavatanı İngiltere ile Fransa arasındaki Jersey Adası&#39;dır.</span></span></p>\r\n\r\n<p><span style=\"background-color:white\"><span style=\"color:#777777\">-genellikle Karadeniz b&ouml;lgesinde yetiştirilir.</span></span></p>\r\n\r\n<p><span style=\"background-color:white\"><span style=\"color:#777777\">-Renkleri a&ccedil;ık kahverenginden siyaha kadar değişir.</span></span></p>\r\n\r\n<p><span style=\"background-color:white\"><span style=\"color:#777777\">-s&uuml;t kalitesi y&uuml;ksektir.</span></span></p>\r\n\r\n<p><span style=\"background-color:white\"><span style=\"color:#777777\">-bir sağım d&ouml;nemindeki s&uuml;t verimi 3500-4000 litredir.yağ oranı %5 dir.</span></span></p>\r\n\r\n<p><span style=\"background-color:white\"><span style=\"color:#777777\">-buzağı doğum ağırlığı 25-30 kilogramdır.</span></span></p>\r\n\r\n<p><span style=\"background-color:white\"><span style=\"color:#777777\">-</span></span> erişkinlerin ağırlığı dişilerde 400-450 kilogramdır.</p>",
+        "slug": "jersey",
+        "category": 5,
+        "image": "jersey.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 40,
+    "fields": {
+        "title": "Norveç kırmızısı",
+        "author": 3,
+        "body": "<p>-anavatanı norve&ccedil;tir.</p>\r\n\r\n<p>-renkleri kırmızı-beyaz veya siyahtır.</p>\r\n\r\n<p>-s&uuml;t verimi ortalama 6000-6500 litredir. elit s&uuml;r&uuml;lerde&nbsp; 10000 litrenin &uuml;zerine &ccedil;ıkabilir.</p>\r\n\r\n<p>-erişkinlerin ağırlığı dişilerde ortalama&nbsp; 500-600 kilogram erkeklerde 900 kilogramdır.</p>",
+        "slug": "norvec-krmzs",
+        "category": 5,
+        "image": "norveç_kırmızısı.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 41,
+    "fields": {
+        "title": "İsveç kırmızısı",
+        "author": 3,
+        "body": "<p>-anavatanı isve&ccedil;tir.</p>\r\n\r\n<p>-renkleri kızıl veya kızıl-beyazdır.</p>\r\n\r\n<p>-s&uuml;t&ccedil;&uuml; bir ırktır. Besi durumu diğer s&uuml;t&ccedil;&uuml; ırklara g&ouml;re daha iyidir.</p>\r\n\r\n<p>-bir sağım d&ouml;neminde ortalama 8000-9000 litre s&uuml;t verir.</p>\r\n\r\n<p>- erişkinlerin ağırlığı dişilerde ortalama 500-600 kilogramdır.</p>",
+        "slug": "isvec-krmzs",
+        "category": 5,
+        "image": "isveç_kırmızısı.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 42,
+    "fields": {
+        "title": "BELÇİKA MAVİSİ",
+        "author": 3,
+        "body": "<p><strong><u><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-</span></span></u></strong> anavatanı bel&ccedil;ikadır.</p>\r\n\r\n<p>-et verimi y&uuml;ksek bir irktık.</p>\r\n\r\n<p>-s&uuml;t verimi olduk&ccedil;a d&uuml;ş&uuml;kt&uuml;r.</p>\r\n\r\n<p>-renkleri <span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">siyah beyaz, mavi beyaz ve d&uuml;z beyaz&nbsp;dır.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-doğumları zor olup sezeryan gerekebilir.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-erişkinlerin ağırlığı dişilerde&nbsp; 900-1000 kilogram erkeklerde 1500-1600 kilogramdır.</span></span></p>",
+        "slug": "belcika-mavisi",
+        "category": 5,
+        "image": "Belcika-Mavisi-768x432.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 43,
+    "fields": {
+        "title": "Angus",
+        "author": 3,
+        "body": "<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-anavatanı isko&ccedil;yadır.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-renkleri siyahtır.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-sıcağa ve soğuğa dayanıklıdır.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-s&uuml;t verimi d&uuml;ş&uuml;kt&uuml;r.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">- erişkinlerin ağırlığı ortalama olarak dişilerde 600 kilogram erkeklerde 1000 kilogram dır.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-karkas randımanı besleme tipine g&ouml;re %55-70 arasında değişir. </span></span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>",
+        "slug": "angus",
+        "category": 5,
+        "image": "aberdeen_angus_irkini_taniyalim_h12024_ae516.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 44,
+    "fields": {
+        "title": "HEREFORD",
+        "author": 3,
+        "body": "<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-anavatanı ingilteredir.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-renkleri kırmızı-beyaz veya kahverengi-beyazdır.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">- Mutlaka başı, boynu, alnı, g&ouml;bek altı, ayak eklemleri ve kuyruk t&uuml;y&uuml; beyaz olur.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-&ccedil;evre şartlarına kolay uyum sağlar.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">- erişkinlerin ağırlığı ortalama olarak dişilerde600 kilogram erkeklerde 1000 kilogramdır.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-buzağı doğum ağırlığı 30-40 kilogramdır.</span></span></p>",
+        "slug": "hereford",
+        "category": 5,
+        "image": "herefordddddd.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 45,
+    "fields": {
+        "title": "Limusin",
+        "author": 3,
+        "body": "<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">anavatanı fransadır.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-renkleri siyah yada kızıldır. </span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-et randımanı y&uuml;ksektir.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">- erişkinlerin ağırlığı ortalama olarak dişilerde 700-800 kilogram erkeklerde 1100 kilogramdır.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-Buzağı doğum ağırlığı 30-40 kg&nbsp; dır.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-karkas randımanı %60-65 dir.</span></span></p>",
+        "slug": "limusin",
+        "category": 5,
+        "image": "b_limuzin-3990.jpg"
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 46,
+    "fields": {
+        "title": "Şarole",
+        "author": 3,
+        "body": "<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-anavatanı fransadır.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-renkleri kirli beyaz veya koyu krem rengindedir.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-s&uuml;t verimi d&uuml;ş&uuml;kt&uuml;r.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-&ccedil;evre ve iklim şartlarına dayanıklıdır.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">- erişkinlerin ağırlığı ortalama olarak dişilerde 800 kilogram erkeklerde1000-1200 kilogramdır.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-buzağı doğum ağırlığı 40-45 kilogramdır.</span></span></p>\r\n\r\n<p><span style=\"background-color:#fcfcfc\"><span style=\"color:#626262\">-et randımanı %70 dir.</span></span></p>",
+        "slug": "sarole",
+        "category": 5,
+        "image": "şaroleeeeeeeeeeeeeee.jpg"
+    }
+},
+{
+    "model": "blog.category",
+    "pk": 1,
+    "fields": {
+        "name": "Koyun",
+        "slug": "koyun",
+        "parent": null,
+        "lft": 1,
+        "rght": 10,
+        "tree_id": 1,
+        "level": 0
+    }
+},
+{
+    "model": "blog.category",
+    "pk": 2,
+    "fields": {
+        "name": "Koyun Irkları",
+        "slug": "koyun-irklari",
+        "parent": 1,
+        "lft": 2,
+        "rght": 3,
+        "tree_id": 1,
+        "level": 1
+    }
+},
+{
+    "model": "blog.category",
+    "pk": 3,
+    "fields": {
+        "name": "İnek",
+        "slug": "inek",
+        "parent": null,
+        "lft": 1,
+        "rght": 6,
+        "tree_id": 2,
+        "level": 0
+    }
+},
+{
+    "model": "blog.category",
+    "pk": 5,
+    "fields": {
+        "name": "İnek Irkları",
+        "slug": "inek-irklari",
+        "parent": 3,
+        "lft": 4,
+        "rght": 5,
+        "tree_id": 2,
+        "level": 1
+    }
+},
+{
+    "model": "blog.category",
+    "pk": 6,
+    "fields": {
+        "name": "Koyunların Beslenmesi",
+        "slug": "koyunlarin-beslenmesi",
+        "parent": 1,
+        "lft": 4,
+        "rght": 5,
+        "tree_id": 1,
+        "level": 1
+    }
+},
+{
+    "model": "blog.category",
+    "pk": 7,
+    "fields": {
+        "name": "Koyun Agilinin Fiziksel Özellikleri",
+        "slug": "Koyun-agilinin-fiziksel-ozellikleri",
+        "parent": 1,
+        "lft": 6,
+        "rght": 7,
+        "tree_id": 1,
+        "level": 1
+    }
+},
+{
+    "model": "blog.category",
+    "pk": 8,
+    "fields": {
+        "name": "Damizlik Secimi",
+        "slug": "Damizlik-secimi",
+        "parent": 1,
+        "lft": 8,
+        "rght": 9,
+        "tree_id": 1,
+        "level": 1
+    }
+},
+{
+    "model": "blog.category",
+    "pk": 9,
+    "fields": {
+        "name": "Kedi ırkları",
+        "slug": "Kedi-irklari",
+        "parent": null,
+        "lft": 1,
+        "rght": 2,
+        "tree_id": 3,
+        "level": 0
+    }
+},
+{
+    "model": "blog.category",
+    "pk": 10,
+    "fields": {
+        "name": "Köpek",
+        "slug": "kopek",
+        "parent": null,
+        "lft": 1,
+        "rght": 4,
+        "tree_id": 4,
+        "level": 0
+    }
+},
+{
+    "model": "blog.category",
+    "pk": 11,
+    "fields": {
+        "name": "Köpeklerin beslenmesi",
+        "slug": "kopeklerin-beslenmesi",
+        "parent": 10,
+        "lft": 2,
+        "rght": 3,
+        "tree_id": 4,
+        "level": 1
+    }
+}
+]

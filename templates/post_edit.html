@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+{% block content %}
+    <h1>Gonderiyi Duzenle</h1>
+    <form action="" method="post">
+        {% csrf_token %}
+        {{ form.media }}
+        {{ form|crispy }}
+        <input class="btn btn-success" type="submit" value="Guncelle">
+    </form>
+{% endblock content %}

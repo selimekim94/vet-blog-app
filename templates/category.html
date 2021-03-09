@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+{% load mptt_tags %}
+
+{% block content %}
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-md-offset-4">
+                <ul id="treeview">
+                    {% recursetree categories %}
+                        <li>
+                            <h5><a href="{% url 'post_by_category' node.id node.slug %}">{{ node.name }}</a></h5>
+                            {% if not node.is_leaf_node %}
+                                <ul class="children">
+                                    <h5><a href="{% url 'post_by_category' node.id node.slug %}">{{ children }}</a></h5>
+                                </ul>
+                            {% endif %}
+                        </li>
+                    {% endrecursetree %}
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- you need to include the ShieldUI CSS and JS assets in order for the TreeView widget to work -->
+    <link rel="stylesheet" type="text/css"
+          href="http://www.shieldui.com/shared/components/latest/css/light-bootstrap/all.min.css"/>
+    <script type="text/javascript"
+            src="http://www.shieldui.com/shared/components/latest/js/shieldui-all.min.js"></script>
+
+    <script type="text/javascript">
+        jQuery(function ($) {
+            $("#treeview").shieldTreeView();
+        });
+    </script>
+{% endblock content %}

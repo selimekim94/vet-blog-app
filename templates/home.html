@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% block content %}
+    {% for post in object_list %}
+        <div class="post-entry">
+            <img src="{% if post.image %} {{ post.image.url }} {% endif %}"
+                 class="img-fluid mx-auto d-block" alt="{{ post.title }}">
+            <h2><a href="{% url 'post_detail' post.slug %}">{{ post.title }}</a></h2>
+            <p>{{ post.body|safe |truncatewords:100 }}</p>
+            <p><b>Yazar:</b> {{ post.author.first_name }} {{ post.author.last_name }}</p>
+        </div>
+    {% endfor %}
+{% endblock content %}
